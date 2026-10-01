@@ -6,3 +6,5 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of 
 [https://public.tableau.com/views/BNAN_Retail_Order_Analysis_Pt_2_Varaiya_Manasi/AppliedChart?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link] This is the last assignment
 
 Introduction to Power BI, 09/27/2026, [https://public.tableau.com/shared/M5XF66X27?:display_count=n&:origin=viz_share_link]
+
+Introduction to DAX in Power BI, 10/01/2026, [https://public.tableau.com/views/PowerBITrainingCertifications_17905352376770/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link] 
