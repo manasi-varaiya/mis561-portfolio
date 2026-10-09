@@ -8,3 +8,5 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of 
 Introduction to Power BI, 09/27/2026, [https://public.tableau.com/shared/M5XF66X27?:display_count=n&:origin=viz_share_link]
 
 Introduction to DAX in Power BI, 10/01/2026, [https://public.tableau.com/views/PowerBITrainingCertifications_17905352376770/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link] 
+
+Data Visualization in Power BI, 10/09/2026, [https://public.tableau.com/views/PowerBITrainingCertifications_17905352376770/PowerBI3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
