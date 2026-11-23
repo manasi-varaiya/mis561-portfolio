@@ -24,7 +24,7 @@ AI use: Anthropic. (2026) Claude Sonnet 5.5
 
 **November 23, 2026 · Product Pitch with Generative AI in Adobe Express**
 Pitch by Ridgeline Analytics to Marcus Reyes, VP of Sales at Southwest Office Solutions: approve a six-week pilot engagement to evaluate and optimize account service tiers, addressing the $16,822 net contribution loss identified in the Inside Sales tier.
-[Pitch deck (PDF)](https://github.com/manasi-varaiya/mis561-portfolio/blob/main/adobe/varaiya-pitchdeck.pdf) · [Adobe Express]([https://...](https://express.adobe.com/publishedV2/urn:aaid:sc:US:db8bf197-ff6e-5de5-a64e-c2916a65e03e?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+[Pitch deck (PDF)](https://github.com/manasi-varaiya/mis561-portfolio/blob/main/adobe/varaiya-pitchdeck.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:US:db8bf197-ff6e-5de5-a64e-c2916a65e03e?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 Toughest objection: "Why not just cover it with overtime?" Slide 5 answers it: the wave is 1,661 cards
 across two quarters, not a one-week spike, so the first phase plans staffing month by month.
 AI use: Anthropic. (2026) Claude Sonnet 5.5
